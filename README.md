@@ -1,0 +1,1 @@
+#weeklyTask - demo project
